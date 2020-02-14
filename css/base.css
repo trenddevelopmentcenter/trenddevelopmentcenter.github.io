@@ -179,8 +179,8 @@ li:hover, .social-widget i:hover {
   opacity: 0.8;
 }
 #whatsapp-icon {
-  top: calc(var(--header-height, 15vh) + 1vh);
-  right: 0;
+  left: 15px;
+  bottom: 15px;
   position: fixed;
   width: calc(48px + 2vw);
 }
@@ -206,4 +206,7 @@ li:hover, .social-widget i:hover {
 }
 [class*="fa-youtube"] {
   color: #b31217;
+}
+[class*="fa-whatsapp"] {
+  color: #25D366;
 }
