@@ -179,10 +179,10 @@ li:hover, .social-widget i:hover {
   opacity: 0.8;
 }
 #whatsapp-icon {
-  left: 15px;
-  bottom: 15px;
+  left: 1vw;
+  bottom: 1vh;
   position: fixed;
-  width: calc(48px + 2vw);
+  /*width: calc(48px + 5vw);*/
 }
 .copyright-bar {
   background-color: black;
